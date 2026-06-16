@@ -1,4 +1,4 @@
-Fling corner V2
+Fling corner V2.4
 A powerful and clean multi-target fling script with a modern interface.
 Features:
 
